@@ -1,0 +1,108 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Kanit:wght@200&family=Lato:wght@300&family=Libre+Bodoni:ital@1&family=Montserrat:wght@200&family=Playfair+Display:wght@600&family=Raleway:wght@300&family=Source+Sans+Pro:wght@300;400&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Indie Flower",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Kanit",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Lato",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Libre Bodoni",
+          "fontStyle": "italic",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Montserrat",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Playfair Display",
+          "fontStyle": "normal",
+          "fontWeight": 600
+        },
+        {
+          "fontFamily": "Raleway",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Kanit:wght@200&family=Lato:wght@300&family=Libre+Bodoni:ital@1&family=Montserrat:wght@200&family=Playfair+Display:wght@600&family=Raleway:wght@300&family=Source+Sans+Pro:wght@300;400&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Indie Flower",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Kanit",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Lato",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Libre Bodoni",
+          "fontStyle": "italic",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Montserrat",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Playfair Display",
+          "fontStyle": "normal",
+          "fontWeight": 600
+        },
+        {
+          "fontFamily": "Raleway",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]
